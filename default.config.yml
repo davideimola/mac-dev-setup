@@ -1,0 +1,32 @@
+---
+downloads: ~/.ansible-downloads/
+
+install_fzf_utils: yes
+
+homebrew_installed_packages:
+  - fzf
+  - git
+  - kubectx
+  - node
+  - nvm
+  - openssl
+  - wget
+
+homebrew_taps:
+  - homebrew/core
+  - homebrew/cask
+
+homebrew_cask_appdir: /Applications
+homebrew_cask_apps:
+  - alfred
+  - commander-one
+  - dash
+  - docker
+  - homebrew/cask-versions/firefox-developer-edition
+  - iterm2
+  - pycharm
+  - smartgit
+  - spotify
+  - vagrant
+  - virtualbox
+  - visual-studio-code

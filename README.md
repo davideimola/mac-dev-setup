@@ -1,5 +1,7 @@
 # macOS Development Ansible Playbook
 
+[![Build Status](https://travis-ci.com/davideimola/mac-dev-setup.svg?branch=master)](https://travis-ci.com/davideimola/mac-dev-setup)
+
 This playbook installs and configures most of the software I use on my Mac for development. I still have some manual installation apps, but at least something is automated.
 
 This is a work in progress, because I'll be evolving this set of playbooks over time in order to document my current Mac's setup.
@@ -21,10 +23,20 @@ Applications (installed with Homebrew Cask)
    - [Dash](https://kapeli.com/dash)
    - [Docker](https://www.docker.com/)
    - [Firefox Developer Edition](https://www.mozilla.org/it/firefox/developer/)
-   - [Homebrew](http://brew.sh/)
    - [iTerm](https://iterm2.com/)
    - [PyCharm](https://www.jetbrains.com/pycharm/)
    - [SmartGit](https://www.syntevo.com/smartgit/)
    - [Spotify](https://www.spotify.com/it/)
+   - [Vagrant](https://www.vagrantup.com/)
    - [VirtualBox](https://www.virtualbox.org/)
    - [Visual Studio Code](https://code.visualstudio.com/)
+
+Homebrew packages
+
+   - fzf
+   - git
+   - kubectx
+   - node
+   - nvm
+   - openssl
+   - wget

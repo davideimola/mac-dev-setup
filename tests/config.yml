@@ -1,0 +1,10 @@
+install_fzf_utils: no
+
+homebrew_installed_packages:
+  - fzf
+  - node
+  - wget
+
+homebrew_cask_apps:
+  - homebrew/cask-versions/firefox-developer-edition
+  - visual-studio-code
