@@ -36,6 +36,7 @@ Homebrew packages
    - fzf
    - git
    - kubectx
+   - minikube
    - node
    - nvm
    - openssl
