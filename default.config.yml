@@ -16,6 +16,7 @@ homebrew_installed_packages:
 homebrew_taps:
   - homebrew/core
   - homebrew/cask
+  - homebrew/cask-fonts
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
@@ -23,6 +24,7 @@ homebrew_cask_apps:
   - commander-one
   - dash
   - docker
+  - font-hack-nerd-font
   - homebrew/cask-versions/firefox-developer-edition
   - iterm2
   - pycharm
