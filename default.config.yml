@@ -25,11 +25,14 @@ homebrew_cask_apps:
   - dash
   - docker
   - font-hack-nerd-font
+  - goland
   - homebrew/cask-versions/firefox-developer-edition
   - iterm2
+  - jetbrains-toolbox
   - pycharm
   - smartgit
   - spotify
   - vagrant
   - virtualbox
   - visual-studio-code
+  - webstorm
